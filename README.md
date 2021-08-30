@@ -11,6 +11,7 @@ Building SPA using ReactJS with the help of REST API and Node.js.
 ### Backend
 - Node.js
 - Mongodb
+- Express
 ### Frontend
 - React
 
